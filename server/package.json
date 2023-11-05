@@ -4,7 +4,7 @@
   "description": "A versatile Learning Management System (LMS) application, offering a comprehensive educational platform for both web and mobile users.",
   "main": "main.js",
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon ./src/main.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/alishkeir/LMSB06#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
   }
 }
