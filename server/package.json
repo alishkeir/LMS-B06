@@ -1,0 +1,22 @@
+{
+  "name": "learning-management-system",
+  "version": "0.0.1",
+  "description": "A versatile Learning Management System (LMS) application, offering a comprehensive educational platform for both web and mobile users.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alishkeir/LMSB06.git"
+  },
+  "author": "Ali Shokair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alishkeir/LMSB06/issues"
+  },
+  "homepage": "https://github.com/alishkeir/LMSB06#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
